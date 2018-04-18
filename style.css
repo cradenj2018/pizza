@@ -1,0 +1,85 @@
+
+body{
+        background-color: red;
+
+        color: #000080;
+
+        font-size: 18px;
+
+        font-family: Lucida Console,Lucida Sans Typewriter,monaco,Bitstream Vera Sans Mono,monospace;
+
+        div.Cheese{
+        background-image: url("cheese.jpg");
+        height:234px;
+        width:294px;
+
+	div.Bacon{
+        background-image: url("bacon.jpg");
+        height:234px;
+        width:294px;
+
+	div.Green Peppers{
+        background-image: url("greenpepper.jpg");
+        height:234px;
+        width:294px;
+
+	div.Onions{
+        background-image: url("onion.jpg");
+        height:234px;
+        width:294px;
+
+	div.Olives{
+        background-image: url("olves.jpg");
+        height:234px;
+        width:294px;
+
+	div.Pepperoni{
+        background-image: url("Pepperioni.jpg");
+        height:234px;
+        width:294px;
+
+	div.Sausage{
+        background-image: url("sasage.jpg");
+        height:234px;
+        width:294px;
+
+	div.Banna Peppers{
+        background-image: url("bannapeppers.jpg");
+        height:234px;
+        width:294px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
